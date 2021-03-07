@@ -1,10 +1,14 @@
-# Dialogflow, Flask를 이용한 Line 챗봇 
- ### python의 beautifulSoup 이용해 예약에 필요한 데이터 크롤링
+# Entertainment Revervation Bot
+### Dialogflow, Flask를 이용한 공연 예약 Line 챗봇
 
 ### 📗 프로젝트 소개
 * 개발 기간 : 2020.01.13 ~ 2020.01.17 (1주일)
-* 사용 기술 : Dialogflow, Flask, Python
+* 사용 기술 : Dialogflow, Flask, Python, beautifulSoup
 * 개발 목적 : 데이터 크롤링 학습
+
+### 🔨 주요 기능
+* 인터파크 사이트 공연 목록 크롤링을 통해 공연 목록 제공
+* 날짜 및 좌석 선택을 통한 예약 기능
 
 ### 📸 Screenshots
 
